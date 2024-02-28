@@ -1,4 +1,4 @@
 on: [push]
 jobs:
   reusable_workflow_job:
-    uses: istqborg/istqb_product_base/compile.yml@main
+    uses: istqborg/istqb_product_base/.github/workflows/compile.yml@main
