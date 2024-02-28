@@ -1,6 +1,8 @@
 name: Build LaTeX documents
-on: [push]
-permissions: {contents: write}
+on:
+  - push
+permissions:
+  contents: write
 jobs:
   build:
     name: Build
