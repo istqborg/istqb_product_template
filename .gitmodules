@@ -1,0 +1,3 @@
+[submodule "istqb_product_base"]
+	path = istqb_product_base
+	url = git@github.com:istqborg/istqb_product_base.git
