@@ -1,0 +1,19 @@
+schema: ISTQB® Certified Tester
+level: Foundation Level
+title: Syllabus Template
+code: CT-TEMP
+prefix: TEMP
+type: Syllabus
+version: Version v0.1
+date: 1 Januray 2024
+release: For internal use only
+logo: istqb-logo-default
+provided-by:
+# 3rd-party organizations with logos
+- name: Alliance for Qualification
+  logo: a4q-logo
+- name: Artificial Intelligence United
+  logo: aiu-logo
+# 3rd-party organizations without logos
+- name: Chinese Software Testing Qualifications Board  # or just:
+- Korean Software Testing Qualifications Board

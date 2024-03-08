@@ -1,0 +1,54 @@
+\documentclass{istqb}
+\usepackage{markdown}
+\markdownSetup{
+  import = {
+    istqb/syllabus = metadata
+  }
+}
+
+% Metadata
+\markdownInput[snippet=metadata]{syllabus/metadata.yml}
+
+% References
+\addbibresource{syllabus/bibliography.bib}
+
+\begin{document}
+
+% Landing Page
+\istqblandingpage
+
+% Copyright Notice
+\markdownInput{syllabus/copyright.md}
+
+% Revision History
+\markdownInput[texComments]{syllabus/revisions.md}
+
+% Table of Contents
+\istqbtableofcontents
+
+% Document Text
+\markdownInput{syllabus/acknowledgments.md}
+\markdownInput{syllabus/00-introduction.md}
+\markdownInput{syllabus/01-writing-guidelines.md}
+\markdownInput{syllabus/02-intro.md}
+
+% Appendices
+\begin{istqbappendices}
+  \markdownInput{syllabus/apx-a-example.md}
+\end{istqbappendices}
+
+
+% Bibliography
+\nocite{*}  % Include references that are not cited in the text
+\printistqbbibliography
+
+% List of Tables
+\listoftables
+
+% List of Figures
+\listoffigures
+
+% Index
+\printindex
+
+\end{document}
