@@ -18,6 +18,16 @@ questions:
       d: To verify that there are no untested combinations of inputs
     correct: c
     explanation: |
+      | foo | bar | baz |
+      |:----|:----|:----|
+      | foo | bar | baz |
+      | foo | bar | baz |
+
+      | foo | bar | baz |
+      |-----|-----|-----|
+      | foo | bar | baz |
+      | foo | bar | baz |
+
       a) Is not correct. It is impossible to prove that there are no defects anymore in the system under test.
          See testing principle 1
       b) Is not correct. See testing principle 7

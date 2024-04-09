@@ -10,4 +10,4 @@ jobs:
     uses: istqborg/istqb_product_base/.github/workflows/compile.yml@main
     with:
       # A Git ref in the repository istqb_product_base, which should be used for the LaTeX+Markdown template
-      base-version: main
+      base-version: fix/tables-in-answers
