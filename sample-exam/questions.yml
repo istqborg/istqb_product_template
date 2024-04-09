@@ -12,10 +12,10 @@ questions:
     number-of-points: 1
     question: Which of the following statements describe a valid test objective?
     answers:
-      a: To prove that there are no unfixed defects in the system under test
-      b: To prove that there will be no failures after the implementation of the system into production
-      c: To reduce the risk level of the test object and to build confidence in the quality level
-      d: To verify that there are no untested combinations of inputs
+      a: 1
+      b: 2
+      c: 3
+      d: 4
     correct: c
     explanation: |
       a) Is not correct. It is impossible to prove that there are no defects anymore in the system under test.
