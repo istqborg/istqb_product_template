@@ -46,9 +46,9 @@ This section lists the Business Outcomes expected of a candidate who has achieve
 
 An \<module-code\> Certified Test Leader can…
 
-* \<module-code\>-BO1 Business Outcomes 1 details
-* \<module-code\>-BO2 Business Outcomes 2 details
-* \<module-code\>-BO3 Business Outcomes 3 details
+* \<module-code\> - BO1 Business Outcomes 1 details
+* \<module-code\> - BO2 Business Outcomes 2 details
+* \<module-code\> - BO3 Business Outcomes 3 details
 
 ### BO 1 Promote efficient and effective communication by using a common vocabulary for software testinge
 
