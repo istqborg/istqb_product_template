@@ -3,9 +3,6 @@ num-questions: 40
 max-score: 40
 pass-score: 65  # percent
 questions:
-  # The following three questions correspond to questions 1, 5, and 6 from the following sample exam documents:
-  # - https://istqb-main-web-prod.s3.amazonaws.com/media/documents/ISTQB_CTFL_Sample-Exam-Questions_v4.0.pdf
-  # - https://istqb-main-web-prod.s3.amazonaws.com/media/documents/ISTQB_CTFL_Sample-Exam-Answers_v4.0.pdf
   1:
     learning-objective: 1.1.1
     k-level: K1
@@ -72,9 +69,6 @@ questions:
       c) Is not correct. This is done by the development team
       d) Is not correct. This is a managerial role
       e) Is correct. This is done by the testers
-  # The following "matching type" question corresponds to question 6 from the following sample exam documents:
-  # - https://istqb-main-web-prod.s3.amazonaws.com/media/documents/ISTQB-CTFL-2018v3.1_Sample-Exam-B-Questions_v1.4.pdf
-  # - https://istqb-main-web-prod.s3.amazonaws.com/media/documents/ISTQB-CTFL-2018v3.1_Sample-Exam-B-Answers_v1.4.pdf
   7:
     learning-objective: 1.4.2
     k-level: K2
