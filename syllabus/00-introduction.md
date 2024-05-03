@@ -55,12 +55,12 @@ The specific learning objectives levels are shown at the beginning of each chapt
 Further details and examples of learning objectives are given in <#section:cognitive-levels>.
 For all terms listed as keywords just below chapter headings, the correct name and definition from the ISTQB® glossary shall be remembered (K1), even if not explicitly mentioned in the learning objective.
 
-The specific Hands-on Objectives (when applicable) are shown at the beginning of each chapter. The level of a HO is classified as follows:  
+The specific Hands-on Objectives (when applicable) are shown at the beginning of each chapter. The level of a HO is classified as follows:  
 
-* H0: This can include a live demo of an exercise or recorded video. Since this is not performed by the trainee, it is not strictly an exercise.  
-* H1: Guided exercise. The trainees follow a sequence of steps performed by the trainer.  
-* H2: Exercise with hints. The trainee is given an exercise with relevant hints to enable the exercise to be solved within the given timeframe.  
-* H3: Unguided exercises without hints.  
+* H0: This can include a live demo of an exercise or recorded video. Since this is not performed by the trainee, it is not strictly an exercise.  
+* H1: Guided exercise. The trainees follow a sequence of steps performed by the trainer.  
+* H2: Exercise with hints. The trainee is given an exercise with relevant hints to enable the exercise to be solved within the given timeframe.  
+* H3: Unguided exercises without hints.  
 
 
 ## The \<module-name\> Certification Exam
