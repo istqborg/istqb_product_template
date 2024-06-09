@@ -62,7 +62,7 @@ questions:
       c: Design solutions to new requirements
       d: Create the test plan
       e: Report on achieved coverage
-    correct: a
+    correct: a, e
     explanation: |
       a) Is correct. This is done by the testers
       b) Is not correct. The product backlog is built and maintained by the product owner
