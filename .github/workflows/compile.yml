@@ -12,4 +12,4 @@ jobs:
     with:
       skip-prerelease: true
       # A Git ref in the repository istqb_product_base, which should be used for the LaTeX+Markdown template
-      base-version: main
+      base-version: feat/refactoring
