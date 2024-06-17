@@ -10,7 +10,7 @@ Copyright © 2019 the authors for the update 2019 Klaus Olsen (chair), Meile Pos
 
 Copyright © 2018 the authors for the update 2018 Klaus Olsen (chair), Tauhida Parveen (vice chair), Rex Black (project manager), Debra Friedenberg, Matthias Hamburg, Judy McKay, Meile Posthuma, Hans Schaefer, Radoslaw Smilgin, Mike Smith, Steve Toms, Stephanie Ulrich, Marie Walsh, and Eshraka Zakaria.
 
-Copyright © 2011 the authors for the update 2011 Thomas Müller (chair), Debra Friedenberg, and the ISTQB WG Foundation Level.
+Copyright © 2011 the authors for the update 2011 Thomas Müller (chair), Debra Friedenberg, and the ISTQB® WG Foundation Level.
 
 Copyright © 2010 the authors for the update 2010 Thomas Müller (chair), Armin Beer, Martin Klonk, and Rahul Verma.
 
