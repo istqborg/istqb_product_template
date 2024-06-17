@@ -7,6 +7,7 @@ type: Syllabus
 version: v0.1
 date: YYYY/MM/DD
 release: For internal use only
+line-numbers: false
 logo: istqb-logo-default
 provided-by:
 # 3rd-party organizations with logos

@@ -5,5 +5,6 @@ code: CT-TEMP
 type: Body of Knowledge
 version: v0.1
 date: YYYY/MM/DD
+line-numbers: false
 release: For internal use only
 logo: istqb-logo-default
