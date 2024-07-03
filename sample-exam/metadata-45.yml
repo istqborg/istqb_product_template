@@ -1,0 +1,11 @@
+schema: Certified Tester
+level: Foundation Level
+title: Syllabus Template
+code: CT-TEMP
+prefix: TEMP
+type: Sample Exam (45 questions)
+version: v0.1
+compatibility: Compatible with Syllabus v0.1
+date: YYYY/MM/DD
+release: For internal use only
+logo: istqb-logo-default
