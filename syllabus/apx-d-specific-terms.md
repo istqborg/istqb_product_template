@@ -1,4 +1,4 @@
-# \<Non-Testing Domain\> Specific Terms {#non-testing-domain-terms}
+# \<Non-Testing Domain\> Specific Terms {#specific-terms}
 
 | Term Name   | Definition |
 | ----------- | ---------- |
