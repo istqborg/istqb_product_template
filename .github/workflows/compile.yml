@@ -1,7 +1,9 @@
 name: Build LaTeX documents
 on:
-  - push
-  - workflow_dispatch
+  push:
+    tags-ignore:
+      - '**'
+  workflow_dispatch:
 permissions:
   contents: write
 jobs:
