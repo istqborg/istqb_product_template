@@ -25,15 +25,15 @@ Example 1: The ISTQB® scheme provides support for testing professionals at all 
 ```
 Example 2: The ISTQB® scheme provides support for testing professionals at all stages of their careers. Individuals who achieve the ISTQB® Certified Tester Advanced Level Test Analyst certification may also be interested in the other Core Advanced Levels (Technical Test Analyst, and Test Manager) and thereafter Expert Level (Test Management or Improving the Test Process). Anyone seeking to develop skills in testing practices in an Agile environment area could consider the Agile Technical Tester or Agile Test Leadership at Scale certifications. The Specialist stream offers a deep dive into areas that have specific test approaches and test activities e.g., in Test Automation Engineer, AI Testing, or Mobile Application Testing, or which cluster testing know-how for certain industry domains e.g., Automotive Software Testing or Game Testing. Please visit www.istqb.org for the latest information on ISTQB´s Certified Tester Scheme.
 ```
-## Business Outcomes
+## Business Outcomes {.business-outcomes}
 
 This section lists the Business Outcomes expected of a candidate who has achieved the \<module-name\> certification.
 
 A \<module-name\> Certified Tester can…
 
-* \<module-code\> - BO1 Business Outcomes 1 details
-* \<module-code\> - BO2 Business Outcomes 2 details
-* \<module-code\> - BO3 Business Outcomes 3 details
+1. Business Outcomes 1 details
+2. Business Outcomes 2 details
+3. Business Outcomes 3 details
 
 ## Learning Objectives, Hands-on Objectives and Cognitive Level of Knowledge
 
