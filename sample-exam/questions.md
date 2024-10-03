@@ -14,12 +14,12 @@ Which of the following statements describe a valid test objective?
 4. To verify that there are no untested combinations of inputs
 
 ## justification
-a) Is not correct. It is impossible to prove that there are no defects anymore in the system under test.
+a. Is not correct. It is impossible to prove that there are no defects anymore in the system under test.
    See testing principle 1
-b) Is not correct. See testing principle 7
-c) Is correct. Testing finds defects and failures which reduces the level of risk and at the same time
+b. Is not correct. See testing principle 7
+c. Is correct. Testing finds defects and failures which reduces the level of risk and at the same time
    gives more confidence in the quality level of the test object
-d) Is not correct. It is impossible to test all combinations of inputs (see testing principle 2)
+d. Is not correct. It is impossible to test all combinations of inputs (see testing principle 2)
 
 # metadata
 lo: 1.4.2
@@ -115,7 +115,7 @@ D. Test completion – (1) Entering change requests for open defect reports
 
 Thus:
 
-a) Is correct
-b) Is not correct
-c) Is not correct
-d) Is not correct
+a. Is correct
+b. Is not correct
+c. Is not correct
+d. Is not correct
