@@ -59,7 +59,7 @@ Hence b is correct.
 lo: 1.4.5
 k-level: K2
 points: 1
-correct: [1, '5']
+correct: 1., e)
 
 ## question
 Which TWO of the following tasks belong MAINLY to a testing role?
