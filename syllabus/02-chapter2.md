@@ -15,7 +15,7 @@ keyword1, keyword2
 
 ## Second level section
 
-Morbi condimentum **lacus luctus**, semper ante nec, hendrerit sem. In tortor metus, aliquam in blandit vel, accumsan a purus. Sed enim velit, porttitor sed arcu in, vestibulum rutrum orci:
+Morbi condimentum **[lacus luctus]{.index}**, semper ante nec, [hendreri]{.index}t sem. In tortor metus, aliquam in blandit vel, accumsan a purus. Sed enim velit, porttitor sed arcu in, vestibulum rutrum orci:
 
 * ultrices justo consequat
 * dui quis eros maximus
