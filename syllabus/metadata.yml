@@ -1,3 +1,5 @@
+# Base parameters
+organization: ISTQB®
 schema: Certified Tester
 level: Foundation Level
 title: Syllabus Template
@@ -7,8 +9,11 @@ type: Syllabus
 version: v0.1
 date: YYYY/MM/DD
 release: For internal use only
-line-numbers: false
 logo: istqb-logo-default
+# Additonal parameters
+line-numbers: false
+further-reading: true
+language: en
 provided-by:
 # 3rd-party organizations with logos
 - name: Czech and Slovak Quality Board
@@ -18,3 +23,7 @@ provided-by:
 # 3rd-party organizations without logos
 - name: International Requirements Engineering Board  # or just:
 - Hungarian Testing Board
+# User-defined variables
+variables:
+  foo: bar
+  bar: baz
