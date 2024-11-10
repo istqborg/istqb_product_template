@@ -2,7 +2,10 @@
 \usepackage{markdown}
 \markdownSetup{
   import = {
-    istqb/syllabus = metadata
+    istqb/syllabus = {
+      metadata,
+      traceability-matrix as matrix,
+    }
   }
 }
 
@@ -37,13 +40,12 @@
 \markdownInput{syllabus/02-chapter2.md}
 
 % Bibliography
-\nocite{*}  % Include references that are not cited in the text
 \printistqbbibliography
 
 % Appendices
 \begin{istqbappendices}
   \markdownInput{syllabus/apx-a-cognitive-levels.md}
-  \markdownInput{syllabus/apx-b-traceability-matrix.md}
+  \markdownInput[snippet=matrix]{syllabus/apx-b-traceability-matrix.yml}
   \markdownInput{syllabus/apx-c-release-notes.md}
   \markdownInput{syllabus/apx-d-specific-terms.md}
   \markdownInput{syllabus/apx-e-trademarks.md}
