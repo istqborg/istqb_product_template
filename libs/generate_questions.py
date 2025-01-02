@@ -84,7 +84,7 @@ Examples:
 
     # Check for required arguments
     if len(sys.argv) < 2:
-        print("Error: Missing required argument "code". Run with --help for usage details.")
+        print("Error: Missing required argument 'code'. Run with --help for usage details.")
         sys.exit(1)
 
     # Get the prefix from the command-line arguments
