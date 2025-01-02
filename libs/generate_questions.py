@@ -3,6 +3,29 @@ from pathlib import Path
 import csv
 import sys
 
+
+question_content = """# metadata
+lo: {lo}
+k-level: {k_level}
+points: {points}
+correct: 
+
+## question
+
+
+## answers
+a) 
+b) 
+c) 
+d) 
+
+## justification
+a) 
+b) 
+c) 
+d) 
+"""
+
 # Function to load LOs and K-levels from a csv file
 def load_learning_objectives(file_path):
     data = []
@@ -36,30 +59,8 @@ def get_points_and_warn(lo, k_level):
 def generate_md_questions(lo, k_level):
     # Get points and handle warnings
     points = get_points_and_warn(lo, k_level)
-    return f"""# metadata
-lo: {lo}
-k-level: {k_level}
-points: {points}
-correct:
-
-## question
-
-
-## answers
-a)
-b)
-c)
-d)
-
-## justification
-a)
-b)
-c)
-d)
-
-"""
-
-
+    return question_content.format(lo=lo, k_level=k_level, points=points)
+    
 # Main script
 if __name__ == "__main__":
     # Check for help flag
@@ -71,7 +72,7 @@ Description:
   This script generates Markdown question files for learning objectives (LOs) with a specified prefix.
 
 Arguments:
-  <prefix>       A unique prefix for the ISTQB module (e.g., CTFL).
+  <code>         A unique code for the ISTQB module (e.g.: tae) used for the questions file names.
                  This prefix is added to the filenames to prevent overwriting.
   [file_path]    (Optional) Path to the source CSV file. Defaults to 'learning-objectives.csv'.
 
@@ -83,7 +84,7 @@ Examples:
 
     # Check for required arguments
     if len(sys.argv) < 2:
-        print("Error: Missing required prefix argument. Run with --help for usage details.")
+        print("Error: Missing required argument "code". Run with --help for usage details.")
         sys.exit(1)
 
     # Get the prefix from the command-line arguments
@@ -99,7 +100,7 @@ Examples:
         sys.exit(1)
 
     # Set the output directory to 'libs'
-    output_dir = Path("libs")
+    output_dir = Path("./../sample-exam/")
 
     # Ensure the 'libs' directory exists (if it doesn't, create it)
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -107,7 +108,7 @@ Examples:
     # Iterate over the data list and generate files for each LO
     for lo, k_level in data:
         # Generate a filename with the prefix
-        filename = f"{prefix}-question-{lo.replace(' ', '_')}.md"
+        filename = f"question-{prefix}-{lo.replace(' ', '_')}.md"
         # Combine the output directory path with the filename
         filepath = output_dir / filename
         # Write the generated content to the file
