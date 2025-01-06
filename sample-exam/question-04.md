@@ -3,6 +3,7 @@ lo: 1.4.2
 k-level: K2
 points: 1
 correct: a
+additional: true
 
 ## question
 Given the following test activities and tasks:

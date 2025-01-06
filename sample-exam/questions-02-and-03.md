@@ -3,6 +3,7 @@ lo: 1.4.2
 k-level: K2
 points: 1
 correct: b
+additional: true
 
 ## question
 Which of the following factors (i-v) have SIGNIFICANT influence on the test process?
@@ -37,6 +38,7 @@ lo: 1.4.5
 k-level: K2
 points: 1
 correct: 1., e)
+additional: false
 
 ## question
 Which TWO of the following tasks belong MAINLY to a testing role?
