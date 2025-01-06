@@ -2,7 +2,7 @@
 \usepackage{markdown}
 \markdownSetup{
   import = {
-    istqb/sample-exam/questions = {metadata, questions}
+    istqb/sample-exam/questions = {metadata, questions, additional-questions}
   }
 }
 
@@ -26,5 +26,8 @@
 % Document Text
 \istqbunnumberedsection{Questions}
 \markdownInput[snippet=questions]{sample-exam-questions/questions.yml}
+
+\istqbunnumberedsection{Additional Questions}
+\markdownInput[snippet=additional-questions]{sample-exam-questions/questions.yml}
 
 \end{document}
