@@ -2,7 +2,7 @@
 \usepackage{markdown}
 \markdownSetup{
   import = {
-    istqb/sample-exam/answers = {metadata, answer-key, answers}
+    istqb/sample-exam/answers = {metadata, answers}
   }
 }
 
@@ -24,11 +24,6 @@
 \istqbtableofcontents
 
 % Document Text
-\istqblandscapebegin
-\istqbunnumberedsection{Answer Key}
-\markdownInput[snippet=answer-key]{sample-exam-answers/questions.yml}
-\istqbunnumberedsection{Answers}
 \markdownInput[snippet=answers]{sample-exam-answers/questions.yml}
-\istqblandscapeend
 
 \end{document}
