@@ -5,25 +5,25 @@ import sys
 
 
 question_content = """# metadata
-lo: {lo}
-k-level: {k_level}
-points: {points}
-correct: 
+lo: {lo}  
+k-level: {k_level}  
+points: {points}  
+correct: a  
 
 ## question
-
+Lorem ipsum dolor sit amet
 
 ## answers
-a) 
-b) 
-c) 
-d) 
+a) consectetur elit  
+b) dictum pulvinar  
+c) nulla erat  
+d) vulputate nisi  
 
 ## justification
-a) 
-b) 
-c) 
-d) 
+a) Maecenas quis posuere ante.  
+b) Integer suscipit eros id euismod pretium.  
+c) Donec augue diam.  
+d) Cras diam nulla.  
 """
 
 # Function to load LOs and K-levels from a csv file
