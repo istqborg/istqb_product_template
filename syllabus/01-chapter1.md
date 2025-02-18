@@ -16,7 +16,7 @@ keyword1, keyword2, keyword3
 
 ## Introduction to Chapter one
 
-Curabitur in dictum lorem. Nam laoreet fringilla semper. Aliquam porttitor, tortor et porttitor varius, mi elit venenatis odio, et ullamcorper risus magna at libero.
+Curabitur in dictum lorem. Nam laoreet fringilla semper. Aliquam porttitor, tortor et porttitor varius, mi elit venenatis odio, et ullamcorper risus magna at libero. [@istqb:2023]
 
 ## Second level heading
 
@@ -28,13 +28,13 @@ Morbi condimentum **lacus luctus**, semper ante nec, hendrerit sem. In tortor me
 * dui quis eros maximus
 * nulla justo consectetur
 
-*Maecenas ac ipsum vitae nisl* congue lacinia a non nisi. Morbi mi justo, cursus nec malesuada ac, consectetur in ipsum. Duis laoreet a ipsum sit amet aliquam. Vivamus ullamcorper mauris sed mi fermentum volutpat. Mauris lectus ante, blandit sit amet augue fringilla, facilisis egestas enim. Mauris volutpat, justo at lobortis finibus, lorem ex faucibus ex, nec laoreet ex metus eget est. Praesent non risus non urna tristique feugiat.
+*Maecenas ac ipsum vitae nisl* congue lacinia a non nisi. Morbi mi justo, cursus nec malesuada ac, consectetur in ipsum. Duis laoreet a ipsum sit amet aliquam. Vivamus ullamcorper mauris sed mi fermentum volutpat. Mauris lectus ante, blandit sit amet augue fringilla, facilisis egestas enim. Mauris volutpat, justo at lobortis finibus, lorem ex faucibus ex, nec laoreet ex metus eget est. Praesent non risus non urna tristique feugiat  [see @beizer:1990, Chapter 5; @brykczynski:1992, Section 3].
 
 ### Third level heading
 
-Ut elementum ultrices lorem ac egestas. In a dictum tellus. Quisque luctus massa facilisis, varius metus ac, viverra nunc. Sed fringilla metus eget metus porttitor tincidunt. Morbi a iaculis nunc, at pharetra ex. Etiam est ipsum, tempus at pellentesque eu, pulvinar sed tortor. Proin massa est, rutrum et pharetra a, lobortis eu est. Maecenas sit amet gravida ante. 
+Ut elementum ultrices lorem ac egestas. In a dictum tellus. Quisque luctus massa facilisis, varius metus ac, viverra nunc. Sed fringilla metus eget metus porttitor tincidunt. Morbi a iaculis nunc, at pharetra ex. Etiam est ipsum, tempus at pellentesque eu, pulvinar sed tortor. Proin massa est, rutrum et pharetra a, lobortis eu est [@kime:2023, Chapter 2]. Maecenas sit amet gravida ante. [@iso-iec:2022]
 
-Maecenas quis nibh pellentesque, accumsan nisi eu, feugiat enim. Duis semper sed tortor quis consequat. Vivamus rhoncus sodales diam eu fringilla. Aliquam sed nisi non dui lobortis interdum.
+Maecenas quis nibh pellentesque, accumsan nisi eu, feugiat enim. Duis semper sed tortor quis consequat. Vivamus rhoncus sodales diam eu fringilla. Aliquam sed nisi non dui lobortis interdum. 
 
 ### Another third level heading
 
