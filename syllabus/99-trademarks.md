@@ -1,4 +1,4 @@
-# Trademarks {-}
+# Trademarks {#trademarks}
 
 List the trademarks referred to in this syllabus in alphabetical order. 
 
