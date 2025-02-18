@@ -47,7 +47,7 @@ The candidate can carry out a procedure when confronted with a familiar task, or
 
 #### Level 4: Analyze (K4)
 
-The candidate can separate information related to a procedure or technique into its constituent parts for better understanding, and can distinguish between facts and inferences. Typical application is to analyze a document, software or project situation and propose appropriate actions to solve a problem or task.
+The candidate can separate information related to a procedure or technique into its constituent parts for better understanding and can distinguish between facts and inferences. Typical application is to analyze a document, software or project situation and propose appropriate actions to solve a problem or task.
 
 **Action verbs:** Analyze, deconstruct, outline, prioritize, select.
 
