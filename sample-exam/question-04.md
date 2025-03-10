@@ -8,35 +8,30 @@ additional: true
 ## question
 Given the following test activities and tasks:
 
-A) Test design  
-B) Test implementation  
-C) Test execution  
-D) Test completion  
+1. Test design  
+2. Test implementation  
+3. Test execution  
+4. Test completion  
 
-1. Entering change requests for open defect reports
-2. Identifying test data to support the test cases
-3. Prioritizing test procedures and creating test data
-4. Analyzing discrepancies to determine their cause
+A) Entering change requests for open defect reports
+B) Identifying test data to support the test cases
+C) Prioritizing test procedures and creating test data
+D) Analyzing discrepancies to determine their cause
 
 Which of the following BEST matches the activities with the tasks?
 
 ## answers
-a) A-2, B-3, C-4, D-1  
-b) A-2, B-1, C-3, D-4  
-c) A-3, B-2, C-4, D-1  
-d) A-3, B-2, C-1, D-4  
+a) 1D, 2A, 3B, 4C  
+b) 1B, 2A, 3C, 4D  
+c) 1D, 2B, 3A, 4C  
+d) 1C, 2B, 3A, 4D
 
 ## justification
 The correct pairing of test activities and tasks is:
 
-A) Test design – (2) Identifying test data to support the test cases  
-B) Test implementation – (3) Prioritizing test procedures and creating test data  
-C) Test execution – (4) Analyzing discrepancies to determine their cause  
-D) Test completion – (1) Entering change requests for open defect reports  
+1) Test design – (B) Identifying test data to support the test cases  
+2) Test implementation – (C) Prioritizing test procedures and creating test data  
+3) Test execution – (D) Analyzing discrepancies to determine their cause  
+4) Test completion – (A) Entering change requests for open defect reports  
 
-Thus:
-
-a. Is correct  
-b. Is not correct  
-c. Is not correct  
-d. Is not correct  
+Thus: a) Is correct  
