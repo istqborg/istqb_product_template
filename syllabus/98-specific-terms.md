@@ -1,4 +1,4 @@
-# \<Non-Testing Domain\> Specific Terms {#specific-terms}
+# ${metadata.title} Specific Terms {#specific-terms}
 
 | Term Name   | Definition |
 | ----------- | ---------- |
