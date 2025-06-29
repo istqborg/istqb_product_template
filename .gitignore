@@ -1,1 +1,26 @@
-.DS_Store
+# VScode workspace files 
+**/.DS_Store
+*.code-workspace
+
+# Build files
+_markdown*/
+questions.yml
+*.md.tex
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.ind
+*.log
+*.luabridge.lua
+*.out
+*.run.xml
+*.toc
+*.pdf
+*.log
+*.lof
+*.lot
