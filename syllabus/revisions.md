@@ -1,4 +1,6 @@
 # Revision History {- .revision-history}
+
 | Version | Date | Remarks |
-|---------|------|---------|
-v0.1 | YYYY/MM/DD | Current internal template version
+| :-- | --- | --- |
+| v1.0 | 2026 / 05 / 10 | Alpha release |
+
