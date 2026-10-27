@@ -1,33 +1,30 @@
 # Introduction
 
-## Purpose of this Syllabus
+## Purpose of This Syllabus
 
-This syllabus forms the basis for the International Software Testing Qualification for the <subject> if applicable at the \<module-name\>. The ISTQB® provides this syllabus as follows:
+This syllabus forms the basis for the International Software Testing Qualification for ${metadata.organization} ${metadata.schema} ${metadata.title} (${metadata.code}). The ISTQB® provides this syllabus as follows:
 
 1. To member boards, to translate into their local language and to accredit training providers. Member boards may adapt the syllabus to their particular language needs and modify the references to adapt to their local publications.
 2. To certification bodies, to derive examination questions in their local language adapted to the learning objectives for this syllabus.
 3. To training providers, to produce training materials and determine appropriate teaching methods.
 4. To certification candidates, to prepare for the certification exam (either as part of a training course or independently).
-5. To the international software and systems engineering community, to advance software and systems testing profession, and as a basis for books and articles.
+5. To the international software and systems engineering community, to advance the software and systems testing profession, and as a basis for books and articles.
 
 ## The ${metadata.schema} ${metadata.title} in Software Testing
 
-The ${metadata.organization} ${metadata.schema} ${metadata.title} (${metadata.code}) qualification is aimed at anyone involved in software testing. This includes people in roles such as testers, test analysts, test engineers, test consultants, test managers, user acceptance testers and software developers. This \<module-name\> qualification is also appropriate for anyone who wants a basic understanding of software testing, such as project managers, quality managers, software development managers, business analysts, IT directors and management consultants. Holders of the \<module-name\> Certificate will be able to go on to higher-level software testing qualifications.
+The ${metadata.organization} ${metadata.schema} ${metadata.title} (${metadata.code}) qualification is aimed at anyone involved in software testing. This includes people in roles such as testers, test analysts, test engineers, test consultants, test managers, software developers, DevOps engineers, and site reliability engineers. This ${metadata.schema} ${metadata.title} qualification is also appropriate for anyone who wants a basic understanding of software testing, such as project managers, quality managers, software development managers, business analysts, IT directors and management consultants. Holders of the ${metadata.schema} ${metadata.title} Certificate will be able to go on to higher-level software testing qualifications.
 
 ## Career Path for Testers
 
-The ISTQB® scheme provides support for testing professionals at all stages of their careers offering both breadth and depth of knowledge. Individuals who achieve the ISTQB® \<module-name\> certification may also be interested in \<syllabus-authors\>.
+The ISTQB® scheme supports testing professionals at all stages of their careers, offering both breadth and depth of knowledge.
 
-```
-Example 1: The ISTQB® scheme provides support for testing professionals at all stages of their careers. Individuals who achieve the ISTQB® Certified Tester Foundation Level certification may also be interested in the Core Advanced Levels (Test Analyst, Technical Test Analyst, and Test Manager) and thereafter Expert Level (Test Management or Improving the Test Process). The Specialist stream offers a deep dive into areas that have specific test approaches and test activities e.g. in Agile Testing, Test Automation, AI Testing, or Mobile App Testing, or which cluster testing know-how for certain industry domains e.g. Automotive or Gaming. Please visit [www.istqb.org](https://www.istqb.org/) for the latest information on ISTQB´s Certified Tester Scheme.
-```
+The ${metadata.schema} ${metadata.title} builds on the qualification of an ISTQB® Certified Tester Foundation Level [@istqb:ctfl]. The *ISTQB® Advanced Level ... and ...* are useful for understanding this syllabus.
 
-```
-Example 2: The ISTQB® scheme provides support for testing professionals at all stages of their careers. Individuals who achieve the ISTQB® Certified Tester Advanced Level Test Analyst certification may also be interested in the other Core Advanced Levels (Technical Test Analyst, and Test Manager) and thereafter Expert Level (Test Management or Improving the Test Process). The Specialist stream offers a deep dive into areas that have specific test approaches and test activities e.g., in Agile Testing, Test Automation Engineer, AI Testing, or Mobile Application Testing, or which cluster testing know-how for certain industry domains e.g., Automotive Software Testing or Game Testing. Please visit [www.istqb.org](https://www.istqb.org/) for the latest information on ISTQB´s Certified Tester Scheme.
-```
+Individuals who achieve the ${metadata.organization} ${metadata.code} certification may also be interested in the other ISTQB® certifications, especially the *ISTQB® Certified Tester Quality in DevOps [@istqb:ct-qdo], ... and ... *
+
 ## Business Outcomes {.business-outcomes}
 
-This section lists the Business Outcomes expected of a candidate who has achieved the \<module-name\> certification.
+This section lists the Business Outcomes expected of a candidate who has achieved the ${metadata.schema} ${metadata.title} certification.
 
 A \<module-name\> Certified Tester can…
 
@@ -37,9 +34,9 @@ A \<module-name\> Certified Tester can…
 
 ## Learning Objectives, Hands-on Objectives and Cognitive Level of Knowledge
 
-Learning and Hands-on Objectives support the business outcomes and are used to create the \<module-name\> exams.
+Learning and Hands-on Objectives support the business outcomes and are used to create the ${metadata.schema} ${metadata.title} exams.
 
-In general, all contents of this syllabus are examinable, except for the Introduction, Hands-on Objectives and Appendices. The exam questions will confirm knowledge of keywords at K1 level (see below) or learning objectives at the respective level of knowledge.
+In general, all content of this syllabus is examinable, except for the Introduction, Hands-on Objectives and Appendices. The exam questions will confirm knowledge of keywords at K1 level (see below) or learning objectives at the respective level of knowledge.
 
 The specific learning objectives and their levels of knowledge are shown at the beginning of each chapter, and classified as follows:
 
@@ -61,26 +58,29 @@ The specific Hands-on Objectives (when applicable) are shown at the beginning of
 * H2: Exercise with hints. The trainee is given an exercise with relevant hints to enable the exercise to be solved within the given timeframe.  
 * H3: Unguided exercises without hints.  
 
-## The \<module-name\> Certification Exam
+## The ${metadata.schema} ${metadata.title} Certification Exam
 
-The \<module-name\> Certificate exam will be based on this syllabus. Answers to exam questions may require the use of material based on more than one section of this syllabus. All sections of the syllabus are examinable, except for the Introduction and Appendices. Standards and books are included as references, but their content is not examinable, beyond what is summarized in the syllabus itself from such standards and books.
+The ${metadata.schema} ${metadata.title} Certificate exam will be based on this syllabus. Answers to exam questions may require the use of material based on more than one section of this syllabus. All sections of the syllabus are examinable, except for the Introduction and Appendices. Standards and books are included as references, but their content is not examinable, beyond what is summarized in the syllabus itself from such standards and books.
 
-Refer to Exam Structures and Rules document for the \<module-name\> (e.g. Exam Structures and Rules V1.1 Compatible with Syllabus Foundation and Advanced Levels and Specialists Modules) document for further details.
+Refer to the Exam Structures and Rules document [@istqb:esr] for further details.
 
-The entry criterion for taking the\<module-name\> exam (e.g.ISTQB® Certified Tester Foundation Level Software Testing) is that candidates are interested in software testing. However, it is strongly recommended that candidates also: 
+The entry criterion for taking the ${metadata.schema} ${metadata.title} exam are
 
-* Have at least a minimal background in either software development or software testing, such as six months experience as a system or user acceptance tester or as a software developer
+* *An ISTQB® Certified Tester Foundation Level certificate*
+* *An interest in software testing and performance efficiency of software*
+
+Candidates are also strongly encouraged to:
+
+* *Have some practical experience with software development or software testing*
 * Take a course that has been accredited to ISTQB® standards (by one of the ISTQB-recognized member boards).
-
-Entry Requirement Note: The ISTQB® Foundation Level certificate shall be obtained before taking the \<module-name\> certification exam.
 
 ## Accreditation
 
-An ISTQB® Member Board may accredit training providers whose course material follows this syllabus. Training providers should obtain accreditation guidelines from the Member Board or body that performs the accreditation. An accredited course is recognized as conforming to this syllabus, and is allowed to have an ISTQB® exam as part of the course.
+An ISTQB® Member Board may accredit training providers whose course material follows this syllabus. Training providers should obtain accreditation guidelines from the Member Board or body that performs the accreditation. An accredited course is recognized as conforming to this syllabus and is allowed to have an ISTQB® exam as part of the course.
 
 The accreditation guidelines for this syllabus follow the general Accreditation Guidelines published by the Processes Management and Compliance Working Group.
 
-## Handling of Standard
+## Handling of Standards
 
 International standardization organizations like IEEE and ISO have issued standards associated with quality characteristics and software testing. Such standards are referenced in this syllabus. The purpose of these references is to provide a framework (as in the references to ISO 25010 regarding quality characteristics) or to provide a source of additional information if desired by the reader. Please note that ISTQB® syllabi are using the standard documents as reference. Standards documents are not intended for examination. Refer to <#section:references> for more information on Standards.
 
@@ -88,19 +88,17 @@ International standardization organizations like IEEE and ISO have issued standa
 
 The level of detail in this syllabus allows internationally consistent courses and exams. In order to achieve this goal, the syllabus consists of:
 
-*	General instructional objectives describing the intention of the \<module-name\> Level
+*	General instructional objectives describing the intention of the ${metadata.schema} ${metadata.title} ${metadata.type}
 *	A list of terms that students must be able to recall 
 *	Learning objectives for each knowledge area, describing the cognitive learning outcome to be achieved
 *	A description of the key concepts, including references to sources such as accepted literature or standards
 
-The syllabus content does not describe the entire knowledge area of software testing; it reflects the level of detail to be covered in < Module name>Level training courses. It focuses on test approaches and test techniques that can apply to all software projects, including those following Agile software development.  This syllabus does not contain any specific learning objectives related to Agile testing, but it does discuss how these test approaches and test techniques apply in Agile projects and other types of projects.  
-
-The syllabus uses the terminology (i.e. the name and meaning) of the terms used in software testing and quality assurance according to the [ISTQB® Glossary](https://glossary.istqb.org/).
+The syllabus content is not a description of the entire knowledge area of software testing; it reflects the level of detail to be covered in ${metadata.code} training courses.
+The syllabus uses the terminology (the name and meaning) of the terms used in quality and testing according to the [ISTQB® Glossary](https://glossary.istqb.org/).
 
 For the terminology in related disciplines please refer to the respective glossaries: IREB-CPRE for requirements engineering (IREB-CPRE), IEEE-Pascal for software engineering (IEEE/Pascal), and Agile Alliance for agile terminology (Agile Alliance).
 
-
-## How this Syllabus is Organized {#how-this-syllabus-is-organized}
+## How This Syllabus Is Organized {#how-this-syllabus-is-organized}
 
 There are \<XX\> chapters with examinable content. The top-level heading for each chapter specifies the time for the chapter; timing is not provided below the chapter level. For accredited training courses, the syllabus requires a minimum of \<XX\> hours of instruction divided over at least \<XX\> days. The minimum training time distributed across the \<XX\> chapters as follows:
 
