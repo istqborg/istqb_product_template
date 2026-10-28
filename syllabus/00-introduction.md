@@ -12,7 +12,7 @@ This syllabus forms the basis for the International Software Testing Qualificati
 
 ## The ${metadata.schema} ${metadata.title} in Software Testing
 
-The ${metadata.organization} ${metadata.schema} ${metadata.title} (${metadata.code}) qualification is aimed at anyone involved in software testing. This includes people in roles such as testers, test analysts, test engineers, test consultants, test managers, software developers, DevOps engineers, and site reliability engineers. This ${metadata.schema} ${metadata.title} qualification is also appropriate for anyone who wants a basic understanding of software testing, such as project managers, quality managers, software development managers, business analysts, IT directors and management consultants. Holders of the ${metadata.schema} ${metadata.title} Certificate will be able to go on to higher-level software testing qualifications.
+The ${metadata.organization} ${metadata.schema} ${metadata.title} (${metadata.code}) qualification is aimed at anyone involved in software testing. This includes people in roles such as testers, test analysts, test engineers, test consultants, test managers, software developers, DevOps engineers, and site reliability engineers. This ${metadata.schema} ${metadata.title} qualification is also appropriate for anyone who wants a basic understanding of software testing, such as project managers, quality managers, software development managers, business analysts, IT directors and management consultants. *Holders of the ${metadata.schema} ${metadata.title} Certificate will be able to go on to higher-level software testing qualifications.*
 
 ## Career Path for Testers
 
