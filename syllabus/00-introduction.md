@@ -60,7 +60,7 @@ The specific Hands-on Objectives (when applicable) are shown at the beginning of
 
 ## The ${metadata.schema} ${metadata.title} Certification Exam
 
-The ${metadata.schema} ${metadata.title} Certificate exam will be based on this syllabus. Answers to exam questions may require the use of material based on more than one section of this syllabus. All sections of the syllabus are examinable, except for the Introduction and Appendices. Standards and books are included as references, but their content is not examinable, beyond what is summarized in the syllabus itself from such standards and books.
+The ${metadata.schema} ${metadata.title} Certificate exam will be based on this syllabus. Answers to exam questions may require the use of material based on more than one section of this syllabus. All sections of the syllabus are examinable, except for the Introduction, Hands-on Objectives and Appendices. Standards and books are included as references, but their content is not examinable, beyond what is summarized in the syllabus itself from such standards and books.
 
 Refer to the Exam Structures and Rules document [@istqb:esr] for further details.
 
