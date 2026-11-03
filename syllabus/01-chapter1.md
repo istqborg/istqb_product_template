@@ -16,7 +16,7 @@ keyword1, keyword2, keyword3
 
 ## Introduction to Chapter one
 
-Curabitur in dictum lorem. Nam laoreet fringilla semper. Aliquam porttitor, tortor et porttitor varius, mi elit venenatis odio, et ullamcorper risus magna at libero. [@istqb:2023]
+Curabitur in dictum lorem. Nam laoreet fringilla semper. Aliquam porttitor, tortor et porttitor varius, mi elit venenatis odio, et ullamcorper risus magna at libero. [@istqb:ctfl]
 
 ## Second level heading
 
